@@ -183,16 +183,16 @@ def main_function(id, process_id):
                     save_from_YD(contract['link'], process_id)
 
             # folder path
-            dir_path = CURDIR+f'\\folder {process_id}\\'            
+            dir_path = CURDIR+f'/folder {process_id}/'            
 
             # upload files recursive
             def recursive_upload(dir_path, folder_id):
                 files = os.listdir(dir_path)
                 for i in files:
-                    if os.path.isfile(dir_path+'\\'+i):
-                        driver.upload(dir_path+'\\'+i,folder_id)
-                    elif os.path.isdir(dir_path+'\\'+i):
-                        recursive_upload(dir_path+'\\'+i, driver.create_folder(i,folder_id))
+                    if os.path.isfile(dir_path+'/'+i):
+                        driver.upload(dir_path+'/'+i,folder_id)
+                    elif os.path.isdir(dir_path+'/'+i):
+                        recursive_upload(dir_path+'/'+i, driver.create_folder(i,folder_id))
 
             recursive_upload(dir_path,folder_2nd_level_id)
 
