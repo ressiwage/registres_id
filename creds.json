@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "focus-invention-343210",
+    "private_key_id": "b79a1a100423134eee927b9ddd134bca817550cf",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhlL75HbVlgWfe\nvef9MeMCMiUO5Q30ielbHXtkdNTdzYRTObpVGmBOEVhgO6ewz2MXPUaj4Zk9rP17\n36ebbdWOvpaYqWBEFMGMvgiEaVKlKrpogo1mH3E5Dnkg5AVbUadU+mTng/qsPQTX\nm6vVZb+iBPCjX5wERZq84dd6DRepSXSNeqA5YUoFXjb+Gx1Zt+eHUFDODbiN6zaO\ndk48xWBPSwOf9fStIFGrPzu0I4WzUB4w0GTZWg8xGA8PbWYFw2EDVEmwcoK+SR8e\nJ97hVOU6rGxJMYD8I2g1CBHKb2MQIR2vC+lWrIlWJ3LZ9X4E5+5Iek2CbFT3Rc08\n9gl7+ncFAgMBAAECggEABlJBQcDb3vLP4tWGhTlbJ6oZEMBJclNVBzkdxpRhjK+g\nKCbjelQJY9anl9bEHbfKCpIsgxYk0a4h0lFTpI7g36WmmbORX4cHX3bJzVAYQUmf\nvKL/7F8wMI2fxlStc8AnhMGZh0VTBnWVR6d0mr/FrXge+C0LNbFvoyBfBewNADDh\nyS90CpzpPsuAoMRTpKbxAS4N/m3ifttYfItCJi8RpyGpgqIb4UD07Gld7H33sw+y\n+CRg9Xs/AyF50azvDWTk32Qql6/cua/RJHm6+h0bz3Pxw9oA3fSJtMeHvpoD1EG7\n3E3I02DqosQIDfFhieTr2027LvZsRkoalnTFrWuFgQKBgQD5+WzaSjWoYmFkoxXM\nkDfn2uBihJDPCaPxaObYgTEE1CW4YEi/lkJPljUPdYsbjeEuzEn5A8VfFHjrVLAt\n7GSowKY9TmQPACsL7kXiGIThP2YGwkyjx23vXHr98vJmVsyCoFMYs0juuBkDSvSZ\n5Ap5PBV242ib3W+iDPhqs2UPRQKBgQDnBMqfYdR1jxbUaLAWc/gQ8RTPwvz1H2DN\nJHsUyoi9lmxdrW8a1Rhj4vTMbgFIemi6ThqD1G/jbTGmvX3m2v95s6eRmJECIN+U\nb4jZv4fjkEDcLlcjU+CF1czHJ+Ig2/YmGW9nuGdvcvW31rtD/oJ3dNvQdfKdMTPK\nOr5ivzdkwQKBgFdvGdbkfA4wkxZLQNWzYAqV8UQkUC5KlfBbm9sAnS+uMJ9j9i4l\nFX6W8Go+1/BEWQ4wYHNcEU4ncAAIODNn6vFnqP3qjG7+xQ/AQOtLXjcXIM2eaoYi\nvF4rv81Ri92l4JSUFVyfYRQ2inEvZ4zoSY2MKYnTEwTpmCFbXgycQO3tAoGAcHcr\nsXXt+aFEavngJ74jWRQUnqR9g1PYS2ZkKRYEhc+SR/Sj7zsomZAmvtMa+s7k5zYY\nwG8OXXiOQG9luJqK3xOwEzhj99ZLIjc+N0t/+zAB82736vHtjxorjBUFiButdJTT\nYHosmNwtdWcrWYmwuDkCvjR9fTszzFLW1rniXMECgYEAyaemOk9JsWAsoP3lP3VQ\nKqie2SjSP5z/U2hxdYyO1PXZumDcQSjV9d8r1X1FyM1rhzdNjh5Ubq38sSdmriD2\njV4dm7tTzOHk90HVnJ9kxqPkLpJyEH0wZPtoLvhAcrm6Eg+ELjfDTNlFiYOEej1j\nYTv/U5+sl2rdi76v3DRqqBc=\n-----END PRIVATE KEY-----\n",
+    "client_email": "metrix-python@focus-invention-343210.iam.gserviceaccount.com",
+    "client_id": "109073828136345638721",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/metrix-python%40focus-invention-343210.iam.gserviceaccount.com"
+  }
+  
