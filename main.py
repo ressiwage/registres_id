@@ -184,7 +184,7 @@ def main_function(id, process_id):
 
             # folder path
             dir_path = CURDIR+f'/folder {process_id}/'            
-
+            
             # upload files recursive
             def recursive_upload(dir_path, folder_id):
                 files = os.listdir(dir_path)

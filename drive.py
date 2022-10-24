@@ -82,7 +82,7 @@ class Drive:
             return False
 
     def upload(self, filepath, parent_id):
-        name = filepath.split("\\")[-1]
+        name = filepath.split("/")[-1]
         mimetype = MimeTypes().guess_type(name)[0]
         if mimetype is None:
             mimetype="none"
